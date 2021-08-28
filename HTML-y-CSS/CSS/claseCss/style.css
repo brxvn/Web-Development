@@ -1,0 +1,15 @@
+/* etiqueta */
+p {
+    font-size: 30px;
+    color: burlywood
+}
+
+/* clase */
+.nombreClase{
+    font-size: 30px;
+}
+
+/* id */
+#nombreId{
+    font-size: 30px;
+}
