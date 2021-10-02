@@ -1,0 +1,30 @@
+/******************************************
+*  Author : brxvn
+*  Created On : Fri Oct 01 2021
+*  File : style.css
+*******************************************/
+* {
+  box-sizing: border-box;
+  padding:0;
+  margin:0;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+main {
+  width: 100vw;
+  height: 100vh;
+  background-color: cornflowerblue;
+  font-size: 1.6rem;
+}
+
+section{
+  width: 80%;
+  min-width: 350px;
+  max-width: 500px;
+  background-color: coral;
+  margin: 0 auto;
+  min-height: 500px;
+}
