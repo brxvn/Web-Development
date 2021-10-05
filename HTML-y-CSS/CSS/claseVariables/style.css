@@ -1,0 +1,44 @@
+/******************************************
+*  Author : brxvn
+*  Created On : Tue Oct 05 2021
+*  File : style.css
+*******************************************/
+:root{
+  --primary-color: #55947a;
+  --secondary-color: #006e40;
+  --font: 1.6rem;
+  --font-title: 4rem;
+}
+
+* {
+  box-sizing: border-box;
+  padding:0;
+  margin:0;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+header{
+  width:100vw;
+  height:15vh;
+  background-color: var(--primary-color);
+}
+
+main{
+  width:100vw;
+  height:70vh;
+  font-size: var(--font);
+}
+
+h1{
+  font-size: var(--font-title);
+  color: var(--primary-color)
+}
+
+footer{
+  width:100vw;
+  height:15vh;
+  background-color: var(--secondary-color);
+}
