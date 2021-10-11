@@ -1,0 +1,21 @@
+/******************************************
+*  Author : brxvn
+*  Created On : Sun Oct 10 2021
+*  File : style.css
+*******************************************/
+* {
+  box-sizing: border-box;
+  padding:0;
+  margin:0;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+
+body {
+  width: 100%;
+  height: auto;
+  
+}
